@@ -1,0 +1,7 @@
+Arduino/esp01 based air quality detector scans the air for harmful and dangerous gasses
+
+1.Displays notifications on an lcd of the gas detected in parts per millions (ppm)
+
+2.Has an inbuilt web interface for viewing real time data over the internet
+
+3.Gps sensor (neo 6m ) included in order to current location of the device. 
